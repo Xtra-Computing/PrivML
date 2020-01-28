@@ -34,6 +34,8 @@ Remark: accepted to AAAI 2020.
 TBD
 
 ## Differential Privacy
+Differential privacy is a strong privacy guarantee for individual record protection.
+
 
 ### Privacy-Preserving Gradient Boosting Decision Trees
 
