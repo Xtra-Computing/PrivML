@@ -1,11 +1,11 @@
-#Private Machine Learning
+# Private Machine Learning
 
 This repo summarize the private machine learning work of Xtra group. Currently we majorly work on two areas: federated learning and differential privacy.
 
-##Federated Learning
+## Federated Learning
 Federated learning enables the collaborative learning of multiple parties without exchanging the local data.
 
-###A Survey on Federated Learning Systems: Vision, Hype and Reality for Data Privacy and Protection
+### A Survey on Federated Learning Systems: Vision, Hype and Reality for Data Privacy and Protection
 
 Authors: Qinbin Li, Zeyi Wen, Zhaomin Wu, Sixu Hu, Naibo Wang, Bingsheng He
 
@@ -16,7 +16,7 @@ Paper: https://arxiv.org/pdf/1907.09693.pdf
 ![](FL_survey/taxonomy.png)
 
 
-###Practical Federated Gradient Boosting Decision Trees
+### Practical Federated Gradient Boosting Decision Trees
 
 Authors: Qinbin Li, Zeyi Wen, Bingsheng He
 
@@ -29,13 +29,13 @@ Remark: accepted to AAAI 2020.
 ![](SimFL/train_a_tree.png)
 
 
-###Federated Learning Benchmark
+### Federated Learning Benchmark
 
 TBD
 
-##Differential Privacy
+## Differential Privacy
 
-###Privacy-Preserving Gradient Boosting Decision Trees
+### Privacy-Preserving Gradient Boosting Decision Trees
 
 Authors: Qinbin Li, Zhaomin Wu, Zeyi Wen, Bingsheng He
 
