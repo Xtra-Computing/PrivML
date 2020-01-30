@@ -13,11 +13,11 @@ This repo summarizes the private machine learning work of Xtra group. Currently 
 
 We have worked/are working on the following projects.
 
-(1) [Federated Learning Survey](#a-survey-on-federated-learning-systems-vision-hype-and-reality-for-data-privacy-and-protection): We conducted a survey on federated learning systems.
+(1) [Federated Learning Survey](#FL_survey): We conducted a survey on federated learning systems.
 
-(2) [Federated Gradient Boosting Decision Trees](#practical-federated-gradient-boosting-decision-trees): We designed a novel federated learning framework for gradient boosting decision trees.
+(2) [Federated Gradient Boosting Decision Trees](#SimFL): We designed a novel federated learning framework for gradient boosting decision trees.
 
-(3) [Differentially Private Gradient Boosting Decision Trees](#privacy-preserving-gradient-boosting-decision-trees): We designed a differentially private gradient boosting decision tree training algorithm.
+(3) [Differentially Private Gradient Boosting Decision Trees](#DPBoost): We designed a differentially private gradient boosting decision tree training algorithm.
 
 ## Publications
 
