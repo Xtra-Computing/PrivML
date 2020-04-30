@@ -43,6 +43,6 @@ In this tutorial, we will first introduce the concept of federated learning, inc
     * Discuss existing challenges and future directions.
     
 ## References
-[1] [A Survey on Federated Learning Systems: Vision, Hype and Reality for Data Privacy and Protection](https://qinbinli.com/files/FLSurvey.pdf) <br>
+[1] [A Survey on Federated Learning Systems: Vision, Hype and Reality for Data Privacy and Protection](https://arxiv.org/pdf/1907.09693.pdf) <br>
         Qinbin Li, Zeyi Wen, Zhaomin Wu, Sixu Hu, Naibo Wang, Bingsheng He<br>
     
