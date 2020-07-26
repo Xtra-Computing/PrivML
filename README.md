@@ -19,6 +19,8 @@ We have worked/are working on the following projects.
 
 (3) [Differentially Private Gradient Boosting Decision Trees](#DPBoost): We designed a differentially private gradient boosting decision tree training algorithm.
 
+(4) [Federated Learning Benchmarks](#OARF): We designed a benchmark for evaluating the components in different FL systems.
+
 ## Publications
 
 * [A Survey on Federated Learning Systems: Vision, Hype and Reality for Data Privacy and Protection](https://qinbinli.com/files/FLSurvey.pdf) <br>
@@ -37,7 +39,7 @@ Qinbin Li, Zhaomin Wu, Zeyi Wen, Bingsheng He<br>
     * We designed a new differentially private gradient boosting decision trees training algorithm (see [details](DPBoost)).
 
 * [The OARF Benchmark Suite: Characterization and Implications for Federated Learning Systems](https://arxiv.org/abs/2006.07856)  <br>
-Qinbin Li, Zhaomin Wu, Zeyi Wen, Bingsheng He<br>
+Sixu Hu, Yuan Li, Xu Liu, Qinbin Li, Zhaomin Wu, Bingsheng He<br>
 <i>arXiv preprint</i>.
-    *  (see [details](OARF)).
+    * We designed a benchmark for evaluating the components in different FL systems (see [details](OARF)).
 
