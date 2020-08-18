@@ -41,5 +41,5 @@ Qinbin Li, Zhaomin Wu, Zeyi Wen, Bingsheng He<br>
 * [The OARF Benchmark Suite: Characterization and Implications for Federated Learning Systems](https://arxiv.org/abs/2006.07856)  <br>
 Sixu Hu, Yuan Li, Xu Liu, Qinbin Li, Zhaomin Wu, Bingsheng He<br>
 <i>arXiv preprint</i>.
-    * We designed a benchmark for evaluating the components in different FL systems (see [details](OARF)).
+    * We designed a benchmark for evaluating the components in different FL systems (see [Code](OARF)).
 
