@@ -6,6 +6,8 @@ Abstract: Gradient Boosting Decision Trees (GBDTs) have become very successful i
 
 Paper: https://arxiv.org/pdf/1911.04206.pdf
 
+Code: https://github.com/QinbinLi/SimFL
+
 Remark: accepted to AAAI 2020.
 
 ![](SimFL/train_a_tree.png)

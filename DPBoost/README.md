@@ -6,7 +6,7 @@ Abstract: The Gradient Boosting Decision Tree (GBDT) is a popular machine learni
 
 Paper: https://arxiv.org/pdf/1911.04209.pdf
 
-Code: https://github.com/GODqinbin/DPBoost
+Code: https://github.com/QinbinLi/DPBoost
 
 Remark: accepted to AAAI 2020.
 
