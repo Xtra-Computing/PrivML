@@ -13,34 +13,19 @@ You can watch our video about the introduction to federated learning systems [he
 
 Federated learning has become a hot research area in machine learning, which enables multiple parties collaboratively training a model without exchanging the local data. It is attractive to researchers working on many areas such as distributed learning, privacy, and fairness. Meanwhile, many companies have developed their federated learning systems such as [Webank FATE](https://github.com/FederatedAI/FATE) and [Google TensorFlow Federated](https://github.com/tensorflow/federated), which provide useful platforms for researchers.
 
-In this tutorial, we will first introduce the concept of federated learning, including current widely used federated learning frameworks. Specifically, we will present comparative studies on existing system from the perspective of data partitioning, machine learning model, scale of federation, communication architectures, privacy mechanisms, and motivation of federations. Last, we will have a demo to show how to easily build federated learning models using existing system like PyTorch.
+In this tutorial, we will introduce the concept of federated learning, including current widely used federated learning frameworks. Specifically, we will present comparative studies on existing system from the perspective of data partitioning, machine learning model, scale of federation, communication architectures, privacy mechanisms, and motivation of federations. Moreover, we will present existing federated learning systems and demo the usage of FATE. We will also cover the benchmark study of federated learning systems.
 
 
 ## Outline
 
-* Introduction to Federated Learning (10 min)
-    * Background
-        * Data regulations such as General Data Protection Regulation (GDPR) and California Consumer Privacy Act (CCPA).
-        * Data islands.
-    * Motivation
-        * From data transfer to model transfer.
+* An Overview of Federated Learning (~40 min)
     * Concept
-        * Definition.
-        * Comparison with distributed learning.
-* Basic Federated Learning Frameworks/Techniques (20 min)
-    * Federated averaging
-    * Secure multi-party computation
-    * Differential privacy
-* Existing Federated Learning Systems (30 min)
-    * Systems: Webank FATE, Google TensorFlow Federated (TFF), PySyft.
-    * Characteristics: data partition, model implementation, privacy mechanism, and communication architecture.
-* A Demo of Writing Federated Learning Program (40 min)
-    * Introduction of our benchmark ORAF.
-    * Implement federated averaging using PyTorch.
-    * Demonstrate federated learning algorithms using FATE, TFF, and PySyft.
-* Discussion (5 min)
-    * Q&A.
-    * Discuss existing challenges and future directions.
+    * Category
+    * Challenges
+    * Federated Learning Systems
+    * Demo
+* Benchmark (~30 min)
+* Vertical Federated Learning (~20 min)
     
 ## References
 [1] [A Survey on Federated Learning Systems: Vision, Hype and Reality for Data Privacy and Protection](https://arxiv.org/pdf/1907.09693.pdf) <br>
