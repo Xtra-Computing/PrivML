@@ -1,12 +1,15 @@
 # A Tutorial on Federated Learning Systems: Comparative Studies and Hand-on Demonstrations
 
-This page introduces our tutorial on federated learning systems, which will appear in IJCAI-20. We will update this page with more detailed materials.
-
-You can watch our video about the introduction to federated learning systems [here](https://github.com/Xtra-Computing/PrivML/tree/master/Tutorial/introduction.mp4).
 
 ## Presenters
 Qinbin Li, Sixu Hu, Zhaomin Wu, Yuan Li
+
+School of Computing
+
 National University of Singapore
+
+## Videos
+You can watch the pre-recorded videos [here](https://drive.google.com/drive/folders/1CBzsy0lg4ML3rTFcMJECZRqkmjxegKdT?usp=sharing).
 
 ## Table of Contents
 * [Abstract](#Abstract)
@@ -22,7 +25,7 @@ In this tutorial, we will introduce the concept of federated learning, including
 
 ## Outline
 
-* An Overview of Federated Learning (~40 min)
+* An Overview of Federated Learning (~30 min)
     * Concept
     * Category
     * Challenges
