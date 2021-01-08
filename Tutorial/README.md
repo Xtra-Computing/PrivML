@@ -4,6 +4,10 @@ This page introduces our tutorial on federated learning systems, which will appe
 
 You can watch our video about the introduction to federated learning systems [here](https://github.com/Xtra-Computing/PrivML/tree/master/Tutorial/introduction.mp4).
 
+## Presenters
+Qinbin Li, Sixu Hu, Zhaomin Wu, Yuan Li
+National University of Singapore
+
 ## Table of Contents
 * [Abstract](#Abstract)
 * [Outline](#Outline)
